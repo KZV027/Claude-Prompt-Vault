@@ -6,7 +6,7 @@ A premium, single-file web app for browsing, copying, and downloading curated Cl
 
 ## ✨ Features
 
-- **114 curated prompts** from [AI Hustle Guy](https://aihustleguy.com)
+- **114 curated prompts** 
 - **5 real GitHub skill repos** — travisvn, BehiSecc, JayZeeDesign, K-Dense-AI, AgriciDaniel
 - **Unified search** — search prompts and skills simultaneously
 - **Segmented filter** — All / Prompts / Skills toggle with live counts
